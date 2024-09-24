@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README para el proyecto basado en la práctica de análisis de grafos y visualización de estructuras de grupos de investigación:
-
----
-
 # 🧠 Proyecto de Visualización de la Estructura de Grupos de Investigación
 
 Este proyecto implementa modelos de **análisis de grafos** utilizando **MATLAB**, con el objetivo de representar y analizar las colaboraciones entre investigadores de la Universidad de Castilla-La Mancha (UCLM). A partir de datos bibliográficos de la plataforma **Scopus**, se construye y analiza un grafo que representa las conexiones entre investigadores, permitiendo identificar grupos de investigación y su estructura interna.
